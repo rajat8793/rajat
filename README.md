@@ -1,4 +1,4 @@
 # rajat
 this is  my first git repository.
 <br>
- Author-Rajat Kumar
+ Author-Rajat Kumar(apna college)
